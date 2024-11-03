@@ -1,0 +1,8 @@
+{
+  "genre": "drama",
+  "minRating": 9,
+  "yearRange": {
+    "start": 1950,
+    "end": 2020
+  }
+}
